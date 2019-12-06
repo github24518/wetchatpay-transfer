@@ -40,7 +40,7 @@ wx.transfer_url=https://api.mch.weixin.qq.com/mmpaymkttransfers/promotion/transf
       </plugins>
 ```
 
-### 5.下载源码文件  source文件夹  
+### 5.[下载源码文件](https://github.com/github24518/wetchatpay-transfer)  source文件夹  
 ```
    @Resource
    WechatPayUtil wechatPayUtil;
