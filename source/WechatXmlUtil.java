@@ -1,4 +1,3 @@
-package com.coding.happy.go.common.utils;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

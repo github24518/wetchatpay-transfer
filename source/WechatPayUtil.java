@@ -1,4 +1,3 @@
-package com.coding.happy.go.common.utils;
 
 import com.coding.happy.go.common.constants.AlipayTransferStatusConstants;
 import com.coding.happy.go.common.model.AlipayTransferStatusBo;
