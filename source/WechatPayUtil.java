@@ -24,8 +24,8 @@ public class WechatPayUtil {
     private String API_SECRET;
     @Value("${wx.transfer_url:}")
     private String TRANSFER_URL;
-    @Value("${wx.spbill_create_ip:}")
-    private String SPBILL_CREATE_IP;
+
+    static final String SPBILL_CREATE_IP = "127.0.0.1";
 
     static final BigDecimal NUM100 = new BigDecimal(100);
 
