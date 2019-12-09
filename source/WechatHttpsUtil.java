@@ -36,7 +36,7 @@ public class WechatHttpsUtil {
     private static SSLContext wx_ssl_context = null;
 
     static {
-        Resource resource = new ClassPathResource("wx_apiclient_cert.p12");
+        Resource resource = new ClassPathResource("apiclient_cert.p12");
         try {
             KeyStore keystore = KeyStore.getInstance("PKCS12");
             //证书密码
