@@ -10,7 +10,7 @@ wx.appid=wx1111111111111
 ## 商户账号   
 wx.mchid=000000001
 ## API密钥              
-wx.api.secret=aaaaaaaaaa
+wx.secret=aaaaaaaaaa
 ## 微信转账请求地址 
 wx.transfer_url=https://api.mch.weixin.qq.com/mmpaymkttransfers/promotion/transfers   
 
